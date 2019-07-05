@@ -1,0 +1,5 @@
+Before you can run the program you have to have python3 and pip3 in your PATH
+
+To use:
+    'make pipeline' to run the program
+    'make install' to install the python requirements

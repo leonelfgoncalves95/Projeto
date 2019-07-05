@@ -1,0 +1,28 @@
+[
+    {
+        "slug": "umbundu",
+        "names": ["Umbundu", "Umbundo"]
+    },
+    {
+        "slug": "kimbundu",
+        "names": ["Kimbundu", "Quimbundo"]
+    },
+    {
+        "slug": "kikongo",
+        "names": ["Kikongo"]
+    },
+    {
+        "slug": "tchocue",
+        "names": ["Tchocue", "Umbundo"]
+    },
+    {
+        "slug": "portuguese",
+        "names": ["Portuguese"],
+        "search": false
+    },
+    {
+        "slug": "english",
+        "names": ["English"],
+        "search": false
+    }
+]

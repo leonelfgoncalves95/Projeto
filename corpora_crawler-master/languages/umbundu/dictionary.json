@@ -1,0 +1,3293 @@
+{
+    "CASSANDI": {
+        "prev": {
+            "Wassinda": 1
+        },
+        "next": {
+            "CAVITA": 1,
+            "okussandjilia": 1
+        },
+        "occurrences": 4
+    },
+    "CAVITA": {
+        "prev": {
+            "CASSANDI": 1,
+            "kwokwo": 1
+        },
+        "next": {
+            "CHACOCO": 1,
+            "ovita": 1
+        },
+        "occurrences": 4
+    },
+    "CHACOCO": {
+        "prev": {
+            "CAVITA": 1,
+            "okussandjilia": 1
+        },
+        "next": {
+            "CHICA": 1,
+            "tcha": 1
+        },
+        "occurrences": 4
+    },
+    "CHICA": {
+        "prev": {
+            "CHACOCO": 1,
+            "ovita": 1
+        },
+        "next": {
+            "EKUMBI": 1,
+            "TCHIKA": 1
+        },
+        "occurrences": 4
+    },
+    "EKUMBI": {
+        "prev": {
+            "CHICA": 1
+        },
+        "next": {
+            "ELAVOKO": 1
+        },
+        "occurrences": 2
+    },
+    "ELAVOKO": {
+        "prev": {
+            "EKUMBI": 1
+        },
+        "next": {
+            "EPALANGA": 1
+        },
+        "occurrences": 2
+    },
+    "EPALANGA": {
+        "prev": {
+            "ELAVOKO": 1
+        },
+        "next": {
+            "EYALA": 1
+        },
+        "occurrences": 2
+    },
+    "EYALA": {
+        "prev": {
+            "EPALANGA": 1
+        },
+        "next": {
+            "Ekumbi": 1
+        },
+        "occurrences": 2
+    },
+    "Ekumbi": {
+        "prev": {
+            "EYALA": 1
+        },
+        "next": {
+            "HANDANGA": 1
+        },
+        "occurrences": 2
+    },
+    "HANDANGA": {
+        "prev": {
+            "Ekumbi": 1
+        },
+        "next": {
+            "HENDA": 1
+        },
+        "occurrences": 2
+    },
+    "HENDA": {
+        "prev": {
+            "HANDANGA": 1
+        },
+        "next": {
+            "HOSSI": 1
+        },
+        "occurrences": 2
+    },
+    "HOSSI": {
+        "prev": {
+            "HENDA": 1
+        },
+        "next": {
+            "KAHOSSI": 1
+        },
+        "occurrences": 2
+    },
+    "KAHOSSI": {
+        "prev": {
+            "HOSSI": 1
+        },
+        "next": {
+            "KALEI": 1
+        },
+        "occurrences": 2
+    },
+    "KALEI": {
+        "prev": {
+            "KAHOSSI": 1
+        },
+        "next": {
+            "KALEYI": 1
+        },
+        "occurrences": 2
+    },
+    "KALEYI": {
+        "prev": {
+            "KALEI": 1
+        },
+        "next": {
+            "KALITANGUI": 1
+        },
+        "occurrences": 2
+    },
+    "KALITANGUI": {
+        "prev": {
+            "KALEYI": 1
+        },
+        "next": {
+            "KALUMBU": 1
+        },
+        "occurrences": 2
+    },
+    "KALUMBU": {
+        "prev": {
+            "KALITANGUI": 1
+        },
+        "next": {
+            "KALUNDUNGU": 1
+        },
+        "occurrences": 2
+    },
+    "KALUNDUNGU": {
+        "prev": {
+            "KALUMBU": 1
+        },
+        "next": {
+            "KALUNGA": 1
+        },
+        "occurrences": 2
+    },
+    "KALUNGA": {
+        "prev": {
+            "KALUNDUNGU": 1
+        },
+        "next": {
+            "KAMWENHO": 1
+        },
+        "occurrences": 2
+    },
+    "KAMWENHO": {
+        "prev": {
+            "KALUNGA": 1
+        },
+        "next": {
+            "KANDIMBA": 1
+        },
+        "occurrences": 2
+    },
+    "KANDIMBA": {
+        "prev": {
+            "KAMWENHO": 1
+        },
+        "next": {
+            "KANGANDJO": 1
+        },
+        "occurrences": 2
+    },
+    "KANGANDJO": {
+        "prev": {
+            "KANDIMBA": 1
+        },
+        "next": {
+            "KANGUYA": 1
+        },
+        "occurrences": 2
+    },
+    "KANGUYA": {
+        "prev": {
+            "KANGANDJO": 1
+        },
+        "next": {
+            "KANHANGA": 1
+        },
+        "occurrences": 2
+    },
+    "KANHANGA": {
+        "prev": {
+            "KANGUYA": 1,
+            "Welema": 1
+        },
+        "next": {
+            "KAPITANGO": 1,
+            "Enyanga": 1
+        },
+        "occurrences": 4
+    },
+    "KAPITANGO": {
+        "prev": {
+            "KANHANGA": 1
+        },
+        "next": {
+            "KAPI\u00d1GALA": 1
+        },
+        "occurrences": 2
+    },
+    "KAPI\u00d1GALA": {
+        "prev": {
+            "KAPITANGO": 1,
+            "KAPI\u00d1GALA": 1
+        },
+        "next": {
+            "KAPI\u00d1GALA": 1,
+            "KAPUKA": 1
+        },
+        "occurrences": 4
+    },
+    "KAPUKA": {
+        "prev": {
+            "KAPI\u00d1GALA": 1
+        },
+        "next": {
+            "KASSINDA": 1
+        },
+        "occurrences": 2
+    },
+    "KASSINDA": {
+        "prev": {
+            "KAPUKA": 1,
+            "KASSINDA": 1
+        },
+        "next": {
+            "KASSINDA": 1,
+            "KASSOVA": 1
+        },
+        "occurrences": 4
+    },
+    "KASSOVA": {
+        "prev": {
+            "KASSINDA": 1
+        },
+        "next": {
+            "KATANYA": 1
+        },
+        "occurrences": 2
+    },
+    "KATANYA": {
+        "prev": {
+            "KASSOVA": 1
+        },
+        "next": {
+            "KATCHIKUKUVANDA": 1
+        },
+        "occurrences": 2
+    },
+    "KATCHIKUKUVANDA": {
+        "prev": {
+            "KATANYA": 1
+        },
+        "next": {
+            "KATCHISSAPA": 1
+        },
+        "occurrences": 2
+    },
+    "KATCHISSAPA": {
+        "prev": {
+            "KATCHIKUKUVANDA": 1
+        },
+        "next": {
+            "KATEMA": 1
+        },
+        "occurrences": 2
+    },
+    "KATEMA": {
+        "prev": {
+            "KATCHISSAPA": 1,
+            "Ka": 1
+        },
+        "next": {
+            "KATITO": 1,
+            "Okutema": 1
+        },
+        "occurrences": 4
+    },
+    "KATITO": {
+        "prev": {
+            "KATEMA": 1
+        },
+        "next": {
+            "KATULO": 1
+        },
+        "occurrences": 2
+    },
+    "KATULO": {
+        "prev": {
+            "KATITO": 1
+        },
+        "next": {
+            "KAVINOQUEKA": 1
+        },
+        "occurrences": 2
+    },
+    "KAVINOQUEKA": {
+        "prev": {
+            "KATULO": 1
+        },
+        "next": {
+            "KAVINYAMA": 1
+        },
+        "occurrences": 2
+    },
+    "KAVINYAMA": {
+        "prev": {
+            "KAVINOQUEKA": 1
+        },
+        "next": {
+            "KAYENGENGA": 1
+        },
+        "occurrences": 2
+    },
+    "KAYENGENGA": {
+        "prev": {
+            "KAVINYAMA": 1
+        },
+        "next": {
+            "KULEMBE": 1
+        },
+        "occurrences": 2
+    },
+    "KULEMBE": {
+        "prev": {
+            "KAYENGENGA": 1
+        },
+        "next": {
+            "KUMOLA": 1
+        },
+        "occurrences": 2
+    },
+    "KUMOLA": {
+        "prev": {
+            "KULEMBE": 1
+        },
+        "next": {
+            "KUSSUMWA": 1
+        },
+        "occurrences": 2
+    },
+    "KUSSUMWA": {
+        "prev": {
+            "KUMOLA": 1
+        },
+        "next": {
+            "Kamenga": 1
+        },
+        "occurrences": 2
+    },
+    "Kamenga": {
+        "prev": {
+            "KUSSUMWA": 1
+        },
+        "next": {
+            "Kapi\u00f1gala": 1
+        },
+        "occurrences": 2
+    },
+    "Kapi\u00f1gala": {
+        "prev": {
+            "Kamenga": 1
+        },
+        "next": {
+            "Kusumwa": 1
+        },
+        "occurrences": 2
+    },
+    "Kusumwa": {
+        "prev": {
+            "Kapi\u00f1gala": 1
+        },
+        "next": {
+            "LIKILIKI": 1
+        },
+        "occurrences": 2
+    },
+    "LIKILIKI": {
+        "prev": {
+            "Kusumwa": 1
+        },
+        "next": {
+            "LUKAMBA": 1
+        },
+        "occurrences": 2
+    },
+    "LUKAMBA": {
+        "prev": {
+            "LIKILIKI": 1
+        },
+        "next": {
+            "LUSSATI": 1
+        },
+        "occurrences": 2
+    },
+    "LUSSATI": {
+        "prev": {
+            "LUKAMBA": 1
+        },
+        "next": {
+            "LUVINDA": 1
+        },
+        "occurrences": 2
+    },
+    "LUVINDA": {
+        "prev": {
+            "LUSSATI": 1
+        },
+        "next": {
+            "MOKO": 1
+        },
+        "occurrences": 2
+    },
+    "MOKO": {
+        "prev": {
+            "LUVINDA": 1
+        },
+        "next": {
+            "MOMA": 1
+        },
+        "occurrences": 2
+    },
+    "MOMA": {
+        "prev": {
+            "MOKO": 1
+        },
+        "next": {
+            "MUHONGO": 1
+        },
+        "occurrences": 2
+    },
+    "MUHONGO": {
+        "prev": {
+            "MOMA": 1
+        },
+        "next": {
+            "MULUNGO": 1
+        },
+        "occurrences": 2
+    },
+    "MULUNGO": {
+        "prev": {
+            "MUHONGO": 1
+        },
+        "next": {
+            "MUNGA": 1
+        },
+        "occurrences": 2
+    },
+    "MUNGA": {
+        "prev": {
+            "MULUNGO": 1
+        },
+        "next": {
+            "Mulungu": 1
+        },
+        "occurrences": 2
+    },
+    "Mulungu": {
+        "prev": {
+            "MUNGA": 1
+        },
+        "next": {
+            "NAMBUNDI": 1
+        },
+        "occurrences": 2
+    },
+    "NAMBUNDI": {
+        "prev": {
+            "Mulungu": 1
+        },
+        "next": {
+            "NANGOMBE": 1
+        },
+        "occurrences": 2
+    },
+    "NANGOMBE": {
+        "prev": {
+            "NAMBUNDI": 1
+        },
+        "next": {
+            "NASSOMA": 1
+        },
+        "occurrences": 2
+    },
+    "NASSOMA": {
+        "prev": {
+            "NANGOMBE": 1
+        },
+        "next": {
+            "NATULA": 1
+        },
+        "occurrences": 2
+    },
+    "NATULA": {
+        "prev": {
+            "NASSOMA": 1
+        },
+        "next": {
+            "NATUMBU": 1
+        },
+        "occurrences": 2
+    },
+    "NATUMBU": {
+        "prev": {
+            "NATULA": 1
+        },
+        "next": {
+            "NAVIMBI": 1
+        },
+        "occurrences": 2
+    },
+    "NAVIMBI": {
+        "prev": {
+            "NATUMBU": 1
+        },
+        "next": {
+            "NAVITA": 1
+        },
+        "occurrences": 2
+    },
+    "NAVITA": {
+        "prev": {
+            "NAVIMBI": 1
+        },
+        "next": {
+            "NDALA": 1
+        },
+        "occurrences": 2
+    },
+    "NDALA": {
+        "prev": {
+            "NAVITA": 1
+        },
+        "next": {
+            "NDANDULA": 1
+        },
+        "occurrences": 2
+    },
+    "NDANDULA": {
+        "prev": {
+            "NDALA": 1
+        },
+        "next": {
+            "NDAVOKA": 1
+        },
+        "occurrences": 2
+    },
+    "NDAVOKA": {
+        "prev": {
+            "NDANDULA": 1
+        },
+        "next": {
+            "NDJAMBA": 1
+        },
+        "occurrences": 2
+    },
+    "NDJAMBA": {
+        "prev": {
+            "NDAVOKA": 1,
+            "NDJAMBA": 1
+        },
+        "next": {
+            "NDJAMBA": 1,
+            "NDUMBU": 1
+        },
+        "occurrences": 4
+    },
+    "NDUMBU": {
+        "prev": {
+            "NDJAMBA": 1
+        },
+        "next": {
+            "NGONGA": 1
+        },
+        "occurrences": 2
+    },
+    "NGONGA": {
+        "prev": {
+            "NDUMBU": 1
+        },
+        "next": {
+            "NGONGO": 1
+        },
+        "occurrences": 2
+    },
+    "NGONGO": {
+        "prev": {
+            "NGONGA": 1
+        },
+        "next": {
+            "NGUEVE": 1
+        },
+        "occurrences": 2
+    },
+    "NGUEVE": {
+        "prev": {
+            "NGONGO": 1,
+            "NGUEVE": 1
+        },
+        "next": {
+            "NGUEVE": 1,
+            "NHIMAWA": 1
+        },
+        "occurrences": 4
+    },
+    "NHIMAWA": {
+        "prev": {
+            "NGUEVE": 1
+        },
+        "next": {
+            "Ndalu": 1
+        },
+        "occurrences": 2
+    },
+    "Ndalu": {
+        "prev": {
+            "NHIMAWA": 1
+        },
+        "next": {
+            "Ndungula": 1
+        },
+        "occurrences": 2
+    },
+    "Ndungula": {
+        "prev": {
+            "Ndalu": 1
+        },
+        "next": {
+            "Nduva": 1
+        },
+        "occurrences": 2
+    },
+    "Nduva": {
+        "prev": {
+            "Ndungula": 1
+        },
+        "next": {
+            "PAKISSI": 1
+        },
+        "occurrences": 2
+    },
+    "PAKISSI": {
+        "prev": {
+            "Nduva": 1
+        },
+        "next": {
+            "SAFEKA": 1
+        },
+        "occurrences": 2
+    },
+    "SAFEKA": {
+        "prev": {
+            "PAKISSI": 1
+        },
+        "next": {
+            "SAMAHINA": 1
+        },
+        "occurrences": 2
+    },
+    "SAMAHINA": {
+        "prev": {
+            "SAFEKA": 1
+        },
+        "next": {
+            "SANDAMBONGO": 1
+        },
+        "occurrences": 2
+    },
+    "SANDAMBONGO": {
+        "prev": {
+            "SAMAHINA": 1
+        },
+        "next": {
+            "SANDULA": 1
+        },
+        "occurrences": 2
+    },
+    "SANDULA": {
+        "prev": {
+            "SANDAMBONGO": 1
+        },
+        "next": {
+            "SAPALO": 1
+        },
+        "occurrences": 2
+    },
+    "SAPALO": {
+        "prev": {
+            "SANDULA": 1
+        },
+        "next": {
+            "SASSONDE": 1
+        },
+        "occurrences": 2
+    },
+    "SASSONDE": {
+        "prev": {
+            "SAPALO": 1
+        },
+        "next": {
+            "SAVIMBI": 1
+        },
+        "occurrences": 2
+    },
+    "SAVIMBI": {
+        "prev": {
+            "SASSONDE": 1
+        },
+        "next": {
+            "SIMBU": 1
+        },
+        "occurrences": 2
+    },
+    "SIMBU": {
+        "prev": {
+            "SAVIMBI": 1
+        },
+        "next": {
+            "SIMWILA": 1
+        },
+        "occurrences": 2
+    },
+    "SIMWILA": {
+        "prev": {
+            "SIMBU": 1
+        },
+        "next": {
+            "SINDJEKUMBI": 1
+        },
+        "occurrences": 2
+    },
+    "SINDJEKUMBI": {
+        "prev": {
+            "SIMWILA": 1
+        },
+        "next": {
+            "SONEH\u00c3": 1
+        },
+        "occurrences": 2
+    },
+    "SONEH\u00c3": {
+        "prev": {
+            "SINDJEKUMBI": 1
+        },
+        "next": {
+            "SUKWAPANGA": 1
+        },
+        "occurrences": 2
+    },
+    "SUKWAPANGA": {
+        "prev": {
+            "SONEH\u00c3": 1
+        },
+        "next": {
+            "Sindjekumbi": 1
+        },
+        "occurrences": 2
+    },
+    "Sindjekumbi": {
+        "prev": {
+            "SUKWAPANGA": 1
+        },
+        "next": {
+            "TCHAKUSSOLA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHAKUSSOLA": {
+        "prev": {
+            "Sindjekumbi": 1
+        },
+        "next": {
+            "TCHIKOMO": 1
+        },
+        "occurrences": 2
+    },
+    "TCHIKOMO": {
+        "prev": {
+            "TCHAKUSSOLA": 1
+        },
+        "next": {
+            "TCHIKUKUMA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHIKUKUMA": {
+        "prev": {
+            "TCHIKOMO": 1
+        },
+        "next": {
+            "TCHILEPUE": 1
+        },
+        "occurrences": 2
+    },
+    "TCHILEPUE": {
+        "prev": {
+            "TCHIKUKUMA": 1
+        },
+        "next": {
+            "TCHILOMBO": 1
+        },
+        "occurrences": 2
+    },
+    "TCHILOMBO": {
+        "prev": {
+            "TCHILEPUE": 1,
+            "TCHILOMBO": 1
+        },
+        "next": {
+            "TCHILOMBO": 1,
+            "TCHIMUKU": 1
+        },
+        "occurrences": 4
+    },
+    "TCHIMUKU": {
+        "prev": {
+            "TCHILOMBO": 1
+        },
+        "next": {
+            "TCHINOFILA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHINOFILA": {
+        "prev": {
+            "TCHIMUKU": 1
+        },
+        "next": {
+            "TCHINONHALE": 1
+        },
+        "occurrences": 2
+    },
+    "TCHINONHALE": {
+        "prev": {
+            "TCHINOFILA": 1
+        },
+        "next": {
+            "TCHIPENDA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHIPENDA": {
+        "prev": {
+            "TCHINONHALE": 1
+        },
+        "next": {
+            "TCHIPILIKA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHIPILIKA": {
+        "prev": {
+            "TCHIPENDA": 1
+        },
+        "next": {
+            "TCHIPUMA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHIPUMA": {
+        "prev": {
+            "TCHIPILIKA": 1
+        },
+        "next": {
+            "TCHISINGI": 1
+        },
+        "occurrences": 2
+    },
+    "TCHISINGI": {
+        "prev": {
+            "TCHIPUMA": 1
+        },
+        "next": {
+            "TCHITEKULO": 1
+        },
+        "occurrences": 2
+    },
+    "TCHITEKULO": {
+        "prev": {
+            "TCHISINGI": 1
+        },
+        "next": {
+            "TCHITENDE": 1
+        },
+        "occurrences": 2
+    },
+    "TCHITENDE": {
+        "prev": {
+            "TCHITEKULO": 1
+        },
+        "next": {
+            "TCHITULA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHITULA": {
+        "prev": {
+            "TCHITENDE": 1,
+            "TCHITULA": 1
+        },
+        "next": {
+            "TCHITULA": 1,
+            "TCHITUMBA": 1
+        },
+        "occurrences": 4
+    },
+    "TCHITUMBA": {
+        "prev": {
+            "TCHITULA": 1
+        },
+        "next": {
+            "TCHITWE": 1
+        },
+        "occurrences": 2
+    },
+    "TCHITWE": {
+        "prev": {
+            "TCHITUMBA": 1
+        },
+        "next": {
+            "TCHIVINDA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHIVINDA": {
+        "prev": {
+            "TCHITWE": 1,
+            "TCHIVINDA": 1
+        },
+        "next": {
+            "TCHIVINDA": 1,
+            "TCHIYO": 1
+        },
+        "occurrences": 4
+    },
+    "TCHIYO": {
+        "prev": {
+            "TCHIVINDA": 1
+        },
+        "next": {
+            "TCHOPELONGA": 1
+        },
+        "occurrences": 2
+    },
+    "TCHOPELONGA": {
+        "prev": {
+            "TCHIYO": 1
+        },
+        "next": {
+            "THIKOLA": 1
+        },
+        "occurrences": 2
+    },
+    "THIKOLA": {
+        "prev": {
+            "TCHOPELONGA": 1
+        },
+        "next": {
+            "Tchambasuku": 1
+        },
+        "occurrences": 2
+    },
+    "Tchambasuku": {
+        "prev": {
+            "THIKOLA": 1
+        },
+        "next": {
+            "Tchela": 1
+        },
+        "occurrences": 2
+    },
+    "Tchela": {
+        "prev": {
+            "Tchambasuku": 1
+        },
+        "next": {
+            "Tchilombo": 1
+        },
+        "occurrences": 2
+    },
+    "Tchilombo": {
+        "prev": {
+            "Tchela": 1
+        },
+        "next": {
+            "Tchissola": 1
+        },
+        "occurrences": 2
+    },
+    "Tchissola": {
+        "prev": {
+            "Tchilombo": 1
+        },
+        "next": {
+            "Tchitekulo": 1
+        },
+        "occurrences": 2
+    },
+    "Tchitekulo": {
+        "prev": {
+            "Tchissola": 1
+        },
+        "next": {
+            "Tchivinda": 1
+        },
+        "occurrences": 2
+    },
+    "Tchivinda": {
+        "prev": {
+            "Tchitekulo": 1
+        },
+        "next": {
+            "Tchokovava": 1
+        },
+        "occurrences": 2
+    },
+    "Tchokovava": {
+        "prev": {
+            "Tchivinda": 1
+        },
+        "next": {
+            "Tchpilika": 1
+        },
+        "occurrences": 2
+    },
+    "Tchpilika": {
+        "prev": {
+            "Tchokovava": 1
+        },
+        "next": {
+            "VIHEMBA": 1
+        },
+        "occurrences": 2
+    },
+    "VIHEMBA": {
+        "prev": {
+            "Tchpilika": 1
+        },
+        "next": {
+            "VISSOKA": 1
+        },
+        "occurrences": 2
+    },
+    "VISSOKA": {
+        "prev": {
+            "VIHEMBA": 1
+        },
+        "next": {
+            "VITI": 1
+        },
+        "occurrences": 2
+    },
+    "VITI": {
+        "prev": {
+            "VISSOKA": 1
+        },
+        "next": {
+            "VITULO": 1
+        },
+        "occurrences": 2
+    },
+    "VITULO": {
+        "prev": {
+            "VITI": 1
+        },
+        "next": {
+            "Vita": 1
+        },
+        "occurrences": 2
+    },
+    "Vita": {
+        "prev": {
+            "VITULO": 1
+        },
+        "next": {
+            "WELEMA": 1
+        },
+        "occurrences": 2
+    },
+    "WELEMA": {
+        "prev": {
+            "Vita": 1
+        },
+        "next": {
+            "Welema": 1
+        },
+        "occurrences": 2
+    },
+    "Welema": {
+        "prev": {
+            "WELEMA": 1
+        },
+        "next": {
+            "KANHANGA": 1
+        },
+        "occurrences": 2
+    },
+    "Enyanga": {
+        "prev": {
+            "KANHANGA": 1,
+            "Lililili": 1
+        },
+        "next": {
+            "Kanhanga": 1,
+            "Okutema": 1
+        },
+        "occurrences": 4
+    },
+    "Kanhanga": {
+        "prev": {
+            "Enyanga": 1
+        },
+        "next": {
+            "Uanyanga": 1
+        },
+        "occurrences": 2
+    },
+    "Uanyanga": {
+        "prev": {
+            "Kanhanga": 1
+        },
+        "next": {
+            "Ka": 1
+        },
+        "occurrences": 2
+    },
+    "Ka": {
+        "prev": {
+            "Uanyanga": 1
+        },
+        "next": {
+            "KATEMA": 1
+        },
+        "occurrences": 2
+    },
+    "Okutema": {
+        "prev": {
+            "KATEMA": 1,
+            "Enyanga": 1
+        },
+        "next": {
+            "Ukuakutema": 2
+        },
+        "occurrences": 4
+    },
+    "Ukuakutema": {
+        "prev": {
+            "Okutema": 2
+        },
+        "next": {
+            "Ndjamba": 2
+        },
+        "occurrences": 4
+    },
+    "Ndjamba": {
+        "prev": {
+            "Ukuakutema": 2,
+            "Hossi": 1
+        },
+        "next": {
+            "Hossi": 1,
+            "Ngueve": 2
+        },
+        "occurrences": 6
+    },
+    "Hossi": {
+        "prev": {
+            "Ndjamba": 1
+        },
+        "next": {
+            "Ndjamba": 1
+        },
+        "occurrences": 2
+    },
+    "Ngueve": {
+        "prev": {
+            "Ndjamba": 2
+        },
+        "next": {
+            "Kassinda": 2
+        },
+        "occurrences": 4
+    },
+    "Kassinda": {
+        "prev": {
+            "Ngueve": 2
+        },
+        "next": {
+            "Wassinda": 2
+        },
+        "occurrences": 4
+    },
+    "Wassinda": {
+        "prev": {
+            "Kassinda": 2
+        },
+        "next": {
+            "CASSANDI": 1,
+            "okussandjilia": 1
+        },
+        "occurrences": 4
+    },
+    "okussandjilia": {
+        "prev": {
+            "CASSANDI": 1,
+            "Wassinda": 1
+        },
+        "next": {
+            "CHACOCO": 1,
+            "tcha": 1
+        },
+        "occurrences": 4
+    },
+    "tcha": {
+        "prev": {
+            "CHACOCO": 1,
+            "okussandjilia": 1
+        },
+        "next": {
+            "kwokwo": 2
+        },
+        "occurrences": 4
+    },
+    "kwokwo": {
+        "prev": {
+            "tcha": 2
+        },
+        "next": {
+            "CAVITA": 1,
+            "ovita": 1
+        },
+        "occurrences": 4
+    },
+    "ovita": {
+        "prev": {
+            "CAVITA": 1,
+            "kwokwo": 1
+        },
+        "next": {
+            "CHICA": 1,
+            "TCHIKA": 1
+        },
+        "occurrences": 4
+    },
+    "TCHIKA": {
+        "prev": {
+            "CHICA": 1,
+            "ovita": 1
+        },
+        "next": {
+            "Lililili": 1,
+            "ohosi": 1
+        },
+        "occurrences": 4
+    },
+    "Lililili": {
+        "prev": {
+            "TCHIKA": 1
+        },
+        "next": {
+            "Enyanga": 1
+        },
+        "occurrences": 2
+    },
+    "ohosi": {
+        "prev": {
+            "TCHIKA": 1
+        },
+        "next": {
+            "ossoma": 1
+        },
+        "occurrences": 2
+    },
+    "ossoma": {
+        "prev": {
+            "ohosi": 1
+        },
+        "next": {
+            "itito": 1
+        },
+        "occurrences": 2
+    },
+    "itito": {
+        "prev": {
+            "ossoma": 1
+        },
+        "next": {
+            "okapuka": 1
+        },
+        "occurrences": 2
+    },
+    "okapuka": {
+        "prev": {
+            "itito": 1
+        },
+        "next": {
+            "ohossi": 1
+        },
+        "occurrences": 2
+    },
+    "ohossi": {
+        "prev": {
+            "okapuka": 1
+        },
+        "next": {
+            "walitanga": 1
+        },
+        "occurrences": 2
+    },
+    "walitanga": {
+        "prev": {
+            "ohossi": 1
+        },
+        "next": {
+            "ohopa": 1
+        },
+        "occurrences": 2
+    },
+    "ohopa": {
+        "prev": {
+            "walitanga": 1
+        },
+        "next": {
+            "elumbu": 1
+        },
+        "occurrences": 2
+    },
+    "elumbu": {
+        "prev": {
+            "ohopa": 1
+        },
+        "next": {
+            "ondimba": 1
+        },
+        "occurrences": 2
+    },
+    "ondimba": {
+        "prev": {
+            "elumbu": 1
+        },
+        "next": {
+            "onguya": 1
+        },
+        "occurrences": 2
+    },
+    "onguya": {
+        "prev": {
+            "ondimba": 1
+        },
+        "next": {
+            "kapiti": 1
+        },
+        "occurrences": 2
+    },
+    "kapiti": {
+        "prev": {
+            "onguya": 1
+        },
+        "next": {
+            "okussoveka": 1
+        },
+        "occurrences": 2
+    },
+    "okussoveka": {
+        "prev": {
+            "kapiti": 1
+        },
+        "next": {
+            "okulembeleka": 1
+        },
+        "occurrences": 2
+    },
+    "okulembeleka": {
+        "prev": {
+            "okussoveka": 1
+        },
+        "next": {
+            "Kussumua": 1
+        },
+        "occurrences": 2
+    },
+    "Kussumua": {
+        "prev": {
+            "okulembeleka": 1
+        },
+        "next": {
+            "essumwo": 1
+        },
+        "occurrences": 2
+    },
+    "essumwo": {
+        "prev": {
+            "Kussumua": 1
+        },
+        "next": {
+            "ngandjo": 1
+        },
+        "occurrences": 2
+    },
+    "ngandjo": {
+        "prev": {
+            "essumwo": 1
+        },
+        "next": {
+            "olussati": 1
+        },
+        "occurrences": 2
+    },
+    "olussati": {
+        "prev": {
+            "ngandjo": 1
+        },
+        "next": {
+            "omoko": 1
+        },
+        "occurrences": 2
+    },
+    "omoko": {
+        "prev": {
+            "olussati": 1,
+            "Okwete": 1
+        },
+        "next": {
+            "omulungu": 1,
+            "yatwa": 1
+        },
+        "occurrences": 4
+    },
+    "omulungu": {
+        "prev": {
+            "omoko": 1
+        },
+        "next": {
+            "onjamba": 1
+        },
+        "occurrences": 2
+    },
+    "onjamba": {
+        "prev": {
+            "omulungu": 1
+        },
+        "next": {
+            "ongongo": 1
+        },
+        "occurrences": 2
+    },
+    "ongongo": {
+        "prev": {
+            "onjamba": 1
+        },
+        "next": {
+            "ombundi": 1
+        },
+        "occurrences": 2
+    },
+    "ombundi": {
+        "prev": {
+            "ongongo": 1,
+            "otchissangwa": 1
+        },
+        "next": {
+            "otchissangwa": 1,
+            "okulavoka": 1
+        },
+        "occurrences": 4
+    },
+    "otchissangwa": {
+        "prev": {
+            "ombundi": 1
+        },
+        "next": {
+            "ombundi": 1
+        },
+        "occurrences": 2
+    },
+    "okulavoka": {
+        "prev": {
+            "ombundi": 1
+        },
+        "next": {
+            "ongombe": 1
+        },
+        "occurrences": 2
+    },
+    "ongombe": {
+        "prev": {
+            "okulavoka": 1,
+            "Cilanda": 1
+        },
+        "next": {
+            "utumbu": 1,
+            "citunda": 1
+        },
+        "occurrences": 4
+    },
+    "utumbu": {
+        "prev": {
+            "ongombe": 1
+        },
+        "next": {
+            "otchivimbi": 1
+        },
+        "occurrences": 2
+    },
+    "otchivimbi": {
+        "prev": {
+            "utumbu": 1
+        },
+        "next": {
+            "ondala": 1
+        },
+        "occurrences": 2
+    },
+    "ondala": {
+        "prev": {
+            "otchivimbi": 1
+        },
+        "next": {
+            "ondumbu": 1
+        },
+        "occurrences": 2
+    },
+    "ondumbu": {
+        "prev": {
+            "ondala": 1
+        },
+        "next": {
+            "ongonga": 1
+        },
+        "occurrences": 2
+    },
+    "ongonga": {
+        "prev": {
+            "ondumbu": 1
+        },
+        "next": {
+            "okusoneh\u00e3": 1
+        },
+        "occurrences": 2
+    },
+    "okusoneh\u00e3": {
+        "prev": {
+            "ongonga": 1
+        },
+        "next": {
+            "omahini": 1
+        },
+        "occurrences": 2
+    },
+    "omahini": {
+        "prev": {
+            "okusoneh\u00e3": 1
+        },
+        "next": {
+            "tchikukuma": 1
+        },
+        "occurrences": 2
+    },
+    "tchikukuma": {
+        "prev": {
+            "omahini": 1
+        },
+        "next": {
+            "tchitulatula": 1
+        },
+        "occurrences": 2
+    },
+    "tchitulatula": {
+        "prev": {
+            "tchikukuma": 1
+        },
+        "next": {
+            "otchilombo": 1
+        },
+        "occurrences": 2
+    },
+    "otchilombo": {
+        "prev": {
+            "tchitulatula": 1
+        },
+        "next": {
+            "omuku": 1
+        },
+        "occurrences": 2
+    },
+    "omuku": {
+        "prev": {
+            "otchilombo": 1
+        },
+        "next": {
+            "okupenda": 1
+        },
+        "occurrences": 2
+    },
+    "okupenda": {
+        "prev": {
+            "omuku": 1
+        },
+        "next": {
+            "okupilika": 1
+        },
+        "occurrences": 2
+    },
+    "okupilika": {
+        "prev": {
+            "okupenda": 1
+        },
+        "next": {
+            "tchi": 1
+        },
+        "occurrences": 2
+    },
+    "tchi": {
+        "prev": {
+            "okupilika": 1
+        },
+        "next": {
+            "otchivinda": 1
+        },
+        "occurrences": 2
+    },
+    "otchivinda": {
+        "prev": {
+            "tchi": 1
+        },
+        "next": {
+            "utwe": 1
+        },
+        "occurrences": 2
+    },
+    "utwe": {
+        "prev": {
+            "otchivinda": 1
+        },
+        "next": {
+            "owelema": 1
+        },
+        "occurrences": 2
+    },
+    "owelema": {
+        "prev": {
+            "utwe": 1
+        },
+        "next": {
+            "eyala": 1
+        },
+        "occurrences": 2
+    },
+    "eyala": {
+        "prev": {
+            "owelema": 1
+        },
+        "next": {
+            "lyambata": 1
+        },
+        "occurrences": 2
+    },
+    "lyambata": {
+        "prev": {
+            "eyala": 1
+        },
+        "next": {
+            "tchalwa": 1
+        },
+        "occurrences": 2
+    },
+    "tchalwa": {
+        "prev": {
+            "lyambata": 1
+        },
+        "next": {
+            "enda": 1
+        },
+        "occurrences": 2
+    },
+    "enda": {
+        "prev": {
+            "tchalwa": 1,
+            "okakuka": 1
+        },
+        "next": {
+            "lakulu": 1,
+            "l\u2019om\u00e3la": 1
+        },
+        "occurrences": 4
+    },
+    "lakulu": {
+        "prev": {
+            "enda": 1
+        },
+        "next": {
+            "okakuka": 1
+        },
+        "occurrences": 2
+    },
+    "okakuka": {
+        "prev": {
+            "lakulu": 1
+        },
+        "next": {
+            "enda": 1
+        },
+        "occurrences": 2
+    },
+    "l\u2019om\u00e3la": {
+        "prev": {
+            "enda": 1
+        },
+        "next": {
+            "okate\u00f1gela": 1
+        },
+        "occurrences": 2
+    },
+    "okate\u00f1gela": {
+        "prev": {
+            "l\u2019om\u00e3la": 1
+        },
+        "next": {
+            "vokulula": 1
+        },
+        "occurrences": 2
+    },
+    "vokulula": {
+        "prev": {
+            "okate\u00f1gela": 1
+        },
+        "next": {
+            "kwolondungu": 1
+        },
+        "occurrences": 2
+    },
+    "kwolondungu": {
+        "prev": {
+            "vokulula": 1
+        },
+        "next": {
+            "hamo": 1
+        },
+        "occurrences": 2
+    },
+    "hamo": {
+        "prev": {
+            "kwolondungu": 1
+        },
+        "next": {
+            "kwatcho": 1
+        },
+        "occurrences": 2
+    },
+    "kwatcho": {
+        "prev": {
+            "hamo": 1
+        },
+        "next": {
+            "Vilula": 1
+        },
+        "occurrences": 2
+    },
+    "Vilula": {
+        "prev": {
+            "kwatcho": 1
+        },
+        "next": {
+            "pol\u00ea": 1
+        },
+        "occurrences": 2
+    },
+    "pol\u00ea": {
+        "prev": {
+            "Vilula": 1
+        },
+        "next": {
+            "p\u2019otchimanda": 1
+        },
+        "occurrences": 2
+    },
+    "p\u2019otchimanda": {
+        "prev": {
+            "pol\u00ea": 1
+        },
+        "next": {
+            "vipwapo": 1
+        },
+        "occurrences": 2
+    },
+    "vipwapo": {
+        "prev": {
+            "p\u2019otchimanda": 1
+        },
+        "next": {
+            "ndilya": 1
+        },
+        "occurrences": 2
+    },
+    "ndilya": {
+        "prev": {
+            "vipwapo": 1
+        },
+        "next": {
+            "k\u2019omwenho": 1
+        },
+        "occurrences": 2
+    },
+    "k\u2019omwenho": {
+        "prev": {
+            "ndilya": 1
+        },
+        "next": {
+            "kaindanda": 1
+        },
+        "occurrences": 2
+    },
+    "kaindanda": {
+        "prev": {
+            "k\u2019omwenho": 1
+        },
+        "next": {
+            "kumwe": 1
+        },
+        "occurrences": 2
+    },
+    "kumwe": {
+        "prev": {
+            "kaindanda": 1
+        },
+        "next": {
+            "kupa\u00f1gela": 1
+        },
+        "occurrences": 2
+    },
+    "kupa\u00f1gela": {
+        "prev": {
+            "kumwe": 1
+        },
+        "next": {
+            "wavisya": 1
+        },
+        "occurrences": 2
+    },
+    "wavisya": {
+        "prev": {
+            "kupa\u00f1gela": 1
+        },
+        "next": {
+            "kapi\u00f1gala": 1
+        },
+        "occurrences": 2
+    },
+    "kapi\u00f1gala": {
+        "prev": {
+            "wavisya": 1
+        },
+        "next": {
+            "kalisiki": 1
+        },
+        "occurrences": 2
+    },
+    "kalisiki": {
+        "prev": {
+            "kapi\u00f1gala": 1
+        },
+        "next": {
+            "la": 1
+        },
+        "occurrences": 2
+    },
+    "la": {
+        "prev": {
+            "kalisiki": 1,
+            "so": 1,
+            "ngolo": 1
+        },
+        "next": {
+            "mwenle": 1,
+            "nhoho": 1,
+            "ngolo": 1
+        },
+        "occurrences": 6
+    },
+    "mwenle": {
+        "prev": {
+            "la": 1
+        },
+        "next": {
+            "kakuli": 1
+        },
+        "occurrences": 2
+    },
+    "kakuli": {
+        "prev": {
+            "mwenle": 1
+        },
+        "next": {
+            "lu": 1
+        },
+        "occurrences": 2
+    },
+    "lu": {
+        "prev": {
+            "kakuli": 1
+        },
+        "next": {
+            "katyapulamo": 1
+        },
+        "occurrences": 2
+    },
+    "katyapulamo": {
+        "prev": {
+            "lu": 1
+        },
+        "next": {
+            "upindi": 1
+        },
+        "occurrences": 2
+    },
+    "upindi": {
+        "prev": {
+            "katyapulamo": 1
+        },
+        "next": {
+            "Katito": 1
+        },
+        "occurrences": 2
+    },
+    "Katito": {
+        "prev": {
+            "upindi": 1
+        },
+        "next": {
+            "oko": 1
+        },
+        "occurrences": 2
+    },
+    "oko": {
+        "prev": {
+            "Katito": 1
+        },
+        "next": {
+            "kove": 1
+        },
+        "occurrences": 2
+    },
+    "kove": {
+        "prev": {
+            "oko": 1,
+            "katchiyo": 1
+        },
+        "next": {
+            "tchinene": 1,
+            "iya": 1
+        },
+        "occurrences": 4
+    },
+    "tchinene": {
+        "prev": {
+            "kove": 1
+        },
+        "next": {
+            "tcham\u00e3le": 1
+        },
+        "occurrences": 2
+    },
+    "tcham\u00e3le": {
+        "prev": {
+            "tchinene": 1
+        },
+        "next": {
+            "lyanga": 1
+        },
+        "occurrences": 2
+    },
+    "lyanga": {
+        "prev": {
+            "tcham\u00e3le": 1
+        },
+        "next": {
+            "otulo": 1
+        },
+        "occurrences": 2
+    },
+    "otulo": {
+        "prev": {
+            "lyanga": 1
+        },
+        "next": {
+            "hukalyange": 1
+        },
+        "occurrences": 2
+    },
+    "hukalyange": {
+        "prev": {
+            "otulo": 1
+        },
+        "next": {
+            "ovisokasoka": 1
+        },
+        "occurrences": 2
+    },
+    "ovisokasoka": {
+        "prev": {
+            "hukalyange": 1
+        },
+        "next": {
+            "ovilongwa": 1
+        },
+        "occurrences": 2
+    },
+    "ovilongwa": {
+        "prev": {
+            "ovisokasoka": 1,
+            "osole": 1
+        },
+        "next": {
+            "havyangeko": 1,
+            "vyanahe": 1
+        },
+        "occurrences": 4
+    },
+    "havyangeko": {
+        "prev": {
+            "ovilongwa": 1
+        },
+        "next": {
+            "kavinyama": 1
+        },
+        "occurrences": 2
+    },
+    "kavinyama": {
+        "prev": {
+            "havyangeko": 1
+        },
+        "next": {
+            "kayengenga": 1
+        },
+        "occurrences": 2
+    },
+    "kayengenga": {
+        "prev": {
+            "kavinyama": 1
+        },
+        "next": {
+            "walunga": 1
+        },
+        "occurrences": 2
+    },
+    "walunga": {
+        "prev": {
+            "kayengenga": 1
+        },
+        "next": {
+            "kwenda": 1
+        },
+        "occurrences": 2
+    },
+    "kwenda": {
+        "prev": {
+            "walunga": 1,
+            "uvandjako": 1
+        },
+        "next": {
+            "ombela": 1,
+            "ondambi": 1
+        },
+        "occurrences": 4
+    },
+    "ombela": {
+        "prev": {
+            "kwenda": 1
+        },
+        "next": {
+            "owi\u00f1gi": 1
+        },
+        "occurrences": 2
+    },
+    "owi\u00f1gi": {
+        "prev": {
+            "ombela": 1
+        },
+        "next": {
+            "uvandjako": 1
+        },
+        "occurrences": 2
+    },
+    "uvandjako": {
+        "prev": {
+            "owi\u00f1gi": 1
+        },
+        "next": {
+            "kwenda": 1
+        },
+        "occurrences": 2
+    },
+    "ondambi": {
+        "prev": {
+            "kwenda": 1
+        },
+        "next": {
+            "umosi": 1
+        },
+        "occurrences": 2
+    },
+    "umosi": {
+        "prev": {
+            "ondambi": 1
+        },
+        "next": {
+            "lika": 1
+        },
+        "occurrences": 2
+    },
+    "lika": {
+        "prev": {
+            "umosi": 1
+        },
+        "next": {
+            "ovandjako": 1
+        },
+        "occurrences": 2
+    },
+    "ovandjako": {
+        "prev": {
+            "lika": 1
+        },
+        "next": {
+            "Ndandulako": 1
+        },
+        "occurrences": 2
+    },
+    "Ndandulako": {
+        "prev": {
+            "ovandjako": 1
+        },
+        "next": {
+            "yakutulika": 1
+        },
+        "occurrences": 2
+    },
+    "yakutulika": {
+        "prev": {
+            "Ndandulako": 1
+        },
+        "next": {
+            "eteke": 1
+        },
+        "occurrences": 2
+    },
+    "eteke": {
+        "prev": {
+            "yakutulika": 1
+        },
+        "next": {
+            "yukutulula": 1
+        },
+        "occurrences": 2
+    },
+    "yukutulula": {
+        "prev": {
+            "eteke": 1
+        },
+        "next": {
+            "k\u2019ilu": 1
+        },
+        "occurrences": 2
+    },
+    "k\u2019ilu": {
+        "prev": {
+            "yukutulula": 1
+        },
+        "next": {
+            "kwalinga": 1
+        },
+        "occurrences": 2
+    },
+    "kwalinga": {
+        "prev": {
+            "k\u2019ilu": 1
+        },
+        "next": {
+            "otchip\u00e3la": 1
+        },
+        "occurrences": 2
+    },
+    "otchip\u00e3la": {
+        "prev": {
+            "kwalinga": 1
+        },
+        "next": {
+            "ngeve": 1
+        },
+        "occurrences": 2
+    },
+    "ngeve": {
+        "prev": {
+            "otchip\u00e3la": 1
+        },
+        "next": {
+            "yusi": 1
+        },
+        "occurrences": 2
+    },
+    "yusi": {
+        "prev": {
+            "ngeve": 1
+        },
+        "next": {
+            "kwatala": 1
+        },
+        "occurrences": 2
+    },
+    "kwatala": {
+        "prev": {
+            "yusi": 1
+        },
+        "next": {
+            "TCHOKOSIMBU": 1
+        },
+        "occurrences": 2
+    },
+    "TCHOKOSIMBU": {
+        "prev": {
+            "kwatala": 1
+        },
+        "next": {
+            "Suku": 1
+        },
+        "occurrences": 2
+    },
+    "Suku": {
+        "prev": {
+            "TCHOKOSIMBU": 1
+        },
+        "next": {
+            "AKWETCHE": 1
+        },
+        "occurrences": 2
+    },
+    "AKWETCHE": {
+        "prev": {
+            "Suku": 1
+        },
+        "next": {
+            "tchakusola": 1
+        },
+        "occurrences": 2
+    },
+    "tchakusola": {
+        "prev": {
+            "AKWETCHE": 1
+        },
+        "next": {
+            "kwama": 1
+        },
+        "occurrences": 2
+    },
+    "kwama": {
+        "prev": {
+            "tchakusola": 1
+        },
+        "next": {
+            "k\u2019omunga": 1
+        },
+        "occurrences": 2
+    },
+    "k\u2019omunga": {
+        "prev": {
+            "kwama": 1
+        },
+        "next": {
+            "tchatchotcho": 1
+        },
+        "occurrences": 2
+    },
+    "tchatchotcho": {
+        "prev": {
+            "k\u2019omunga": 1
+        },
+        "next": {
+            "tchika": 1
+        },
+        "occurrences": 2
+    },
+    "tchika": {
+        "prev": {
+            "tchatchotcho": 1
+        },
+        "next": {
+            "ukusumba": 1
+        },
+        "occurrences": 2
+    },
+    "ukusumba": {
+        "prev": {
+            "tchika": 1
+        },
+        "next": {
+            "te": 1
+        },
+        "occurrences": 2
+    },
+    "te": {
+        "prev": {
+            "ukusumba": 1
+        },
+        "next": {
+            "watchilya": 1
+        },
+        "occurrences": 2
+    },
+    "watchilya": {
+        "prev": {
+            "te": 1
+        },
+        "next": {
+            "tchina": 1
+        },
+        "occurrences": 2
+    },
+    "tchina": {
+        "prev": {
+            "watchilya": 1
+        },
+        "next": {
+            "onyanle": 1
+        },
+        "occurrences": 2
+    },
+    "onyanle": {
+        "prev": {
+            "tchina": 1
+        },
+        "next": {
+            "katchukutundi": 1
+        },
+        "occurrences": 2
+    },
+    "katchukutundi": {
+        "prev": {
+            "onyanle": 1
+        },
+        "next": {
+            "tchinosole": 1
+        },
+        "occurrences": 2
+    },
+    "tchinosole": {
+        "prev": {
+            "katchukutundi": 1
+        },
+        "next": {
+            "katchukusole": 1
+        },
+        "occurrences": 2
+    },
+    "katchukusole": {
+        "prev": {
+            "tchinosole": 1
+        },
+        "next": {
+            "tchipuma": 1
+        },
+        "occurrences": 2
+    },
+    "tchipuma": {
+        "prev": {
+            "katchukusole": 1
+        },
+        "next": {
+            "etemo": 1
+        },
+        "occurrences": 2
+    },
+    "etemo": {
+        "prev": {
+            "tchipuma": 1
+        },
+        "next": {
+            "tchiyunda": 1
+        },
+        "occurrences": 2
+    },
+    "tchiyunda": {
+        "prev": {
+            "etemo": 1
+        },
+        "next": {
+            "tchipopya": 1
+        },
+        "occurrences": 2
+    },
+    "tchipopya": {
+        "prev": {
+            "tchiyunda": 1
+        },
+        "next": {
+            "omanu": 1
+        },
+        "occurrences": 2
+    },
+    "omanu": {
+        "prev": {
+            "tchipopya": 1
+        },
+        "next": {
+            "tchikeya": 1
+        },
+        "occurrences": 2
+    },
+    "tchikeya": {
+        "prev": {
+            "omanu": 1
+        },
+        "next": {
+            "tchukwih\u00e3": 1
+        },
+        "occurrences": 2
+    },
+    "tchukwih\u00e3": {
+        "prev": {
+            "tchikeya": 1
+        },
+        "next": {
+            "so": 1
+        },
+        "occurrences": 2
+    },
+    "so": {
+        "prev": {
+            "tchukwih\u00e3": 1
+        },
+        "next": {
+            "la": 1
+        },
+        "occurrences": 2
+    },
+    "nhoho": {
+        "prev": {
+            "la": 1
+        },
+        "next": {
+            "wamale": 1
+        },
+        "occurrences": 2
+    },
+    "wamale": {
+        "prev": {
+            "nhoho": 1
+        },
+        "next": {
+            "kakutchih\u00e3": 1
+        },
+        "occurrences": 2
+    },
+    "kakutchih\u00e3": {
+        "prev": {
+            "wamale": 1
+        },
+        "next": {
+            "hati": 1
+        },
+        "occurrences": 2
+    },
+    "hati": {
+        "prev": {
+            "kakutchih\u00e3": 1
+        },
+        "next": {
+            "okwete": 1
+        },
+        "occurrences": 2
+    },
+    "okwete": {
+        "prev": {
+            "hati": 1
+        },
+        "next": {
+            "ale": 1
+        },
+        "occurrences": 2
+    },
+    "ale": {
+        "prev": {
+            "okwete": 1
+        },
+        "next": {
+            "okutela": 1
+        },
+        "occurrences": 2
+    },
+    "okutela": {
+        "prev": {
+            "ale": 1
+        },
+        "next": {
+            "utale": 1
+        },
+        "occurrences": 2
+    },
+    "utale": {
+        "prev": {
+            "okutela": 1,
+            "volundila": 1
+        },
+        "next": {
+            "l\u2019uteke": 1,
+            "nda": 1
+        },
+        "occurrences": 4
+    },
+    "l\u2019uteke": {
+        "prev": {
+            "utale": 1
+        },
+        "next": {
+            "volundila": 1
+        },
+        "occurrences": 2
+    },
+    "volundila": {
+        "prev": {
+            "l\u2019uteke": 1
+        },
+        "next": {
+            "utale": 1
+        },
+        "occurrences": 2
+    },
+    "nda": {
+        "prev": {
+            "utale": 1,
+            "kaha\u00f1gu": 1,
+            "Ukwene": 1
+        },
+        "next": {
+            "wam\u00f5la": 1,
+            "kepo": 1,
+            "oteh\u00e3": 1
+        },
+        "occurrences": 6
+    },
+    "wam\u00f5la": {
+        "prev": {
+            "nda": 1
+        },
+        "next": {
+            "kaha\u00f1gu": 1
+        },
+        "occurrences": 2
+    },
+    "kaha\u00f1gu": {
+        "prev": {
+            "wam\u00f5la": 1,
+            "hukawinesi": 1
+        },
+        "next": {
+            "katchiyo": 1,
+            "nda": 1
+        },
+        "occurrences": 4
+    },
+    "katchiyo": {
+        "prev": {
+            "kaha\u00f1gu": 1,
+            "kepo": 1
+        },
+        "next": {
+            "hukawinesi": 1,
+            "kove": 1
+        },
+        "occurrences": 4
+    },
+    "hukawinesi": {
+        "prev": {
+            "katchiyo": 1
+        },
+        "next": {
+            "kaha\u00f1gu": 1
+        },
+        "occurrences": 2
+    },
+    "kepo": {
+        "prev": {
+            "nda": 1
+        },
+        "next": {
+            "katchiyo": 1
+        },
+        "occurrences": 2
+    },
+    "iya": {
+        "prev": {
+            "kove": 1
+        },
+        "next": {
+            "okupopela": 1
+        },
+        "occurrences": 2
+    },
+    "okupopela": {
+        "prev": {
+            "iya": 1
+        },
+        "next": {
+            "ovisoka-soka": 1
+        },
+        "occurrences": 2
+    },
+    "ovisoka-soka": {
+        "prev": {
+            "okupopela": 1
+        },
+        "next": {
+            "vyovutima": 1
+        },
+        "occurrences": 2
+    },
+    "vyovutima": {
+        "prev": {
+            "ovisoka-soka": 1
+        },
+        "next": {
+            "ULUM\u00c9": 1
+        },
+        "occurrences": 2
+    },
+    "ULUM\u00c9": {
+        "prev": {
+            "vyovutima": 1
+        },
+        "next": {
+            "UK\u00c3E": 1
+        },
+        "occurrences": 2
+    },
+    "UK\u00c3E": {
+        "prev": {
+            "ULUM\u00c9": 1
+        },
+        "next": {
+            "OMOL\u00c3": 1
+        },
+        "occurrences": 2
+    },
+    "OMOL\u00c3": {
+        "prev": {
+            "UK\u00c3E": 1
+        },
+        "next": {
+            "OMBINETE": 1
+        },
+        "occurrences": 2
+    },
+    "OMBINETE": {
+        "prev": {
+            "OMOL\u00c3": 1
+        },
+        "next": {
+            "UPANGUE": 1
+        },
+        "occurrences": 2
+    },
+    "UPANGUE": {
+        "prev": {
+            "OMBINETE": 1
+        },
+        "next": {
+            "OKALUNGA": 1
+        },
+        "occurrences": 2
+    },
+    "OKALUNGA": {
+        "prev": {
+            "UPANGUE": 1
+        },
+        "next": {
+            "\u00d3VAVA": 1
+        },
+        "occurrences": 2
+    },
+    "\u00d3VAVA": {
+        "prev": {
+            "OKALUNGA": 1
+        },
+        "next": {
+            "ONDJO": 1
+        },
+        "occurrences": 2
+    },
+    "ONDJO": {
+        "prev": {
+            "\u00d3VAVA": 1
+        },
+        "next": {
+            "XALIP\u00d3": 1
+        },
+        "occurrences": 2
+    },
+    "XALIP\u00d3": {
+        "prev": {
+            "ONDJO": 1
+        },
+        "next": {
+            "TITO": 1
+        },
+        "occurrences": 2
+    },
+    "TITO": {
+        "prev": {
+            "XALIP\u00d3": 1
+        },
+        "next": {
+            "UNEN\u00c9": 1
+        },
+        "occurrences": 2
+    },
+    "UNEN\u00c9": {
+        "prev": {
+            "TITO": 1
+        },
+        "next": {
+            "OTCHINDEL\u00c9mak": 1
+        },
+        "occurrences": 2
+    },
+    "OTCHINDEL\u00c9mak": {
+        "prev": {
+            "UNEN\u00c9": 1
+        },
+        "next": {
+            "\u00c9LIVULO": 1
+        },
+        "occurrences": 2
+    },
+    "\u00c9LIVULO": {
+        "prev": {
+            "OTCHINDEL\u00c9mak": 1
+        },
+        "next": {
+            "NGOLA": 1
+        },
+        "occurrences": 2
+    },
+    "NGOLA": {
+        "prev": {
+            "\u00c9LIVULO": 1
+        },
+        "next": {
+            "CAPUTO": 1
+        },
+        "occurrences": 2
+    },
+    "CAPUTO": {
+        "prev": {
+            "NGOLA": 1
+        },
+        "next": {
+            "UKUPILUKA": 1
+        },
+        "occurrences": 2
+    },
+    "UKUPILUKA": {
+        "prev": {
+            "CAPUTO": 1
+        },
+        "next": {
+            "OMONL\u00c3NGUE": 1
+        },
+        "occurrences": 2
+    },
+    "OMONL\u00c3NGUE": {
+        "prev": {
+            "UKUPILUKA": 1
+        },
+        "next": {
+            "AMENDUKUSSOLE": 1
+        },
+        "occurrences": 2
+    },
+    "AMENDUKUSSOLE": {
+        "prev": {
+            "OMONL\u00c3NGUE": 1
+        },
+        "next": {
+            "TCH\u00c1LUA": 1
+        },
+        "occurrences": 2
+    },
+    "TCH\u00c1LUA": {
+        "prev": {
+            "AMENDUKUSSOLE": 1
+        },
+        "next": {
+            "TUAPAMDULA": 1
+        },
+        "occurrences": 2
+    },
+    "TUAPAMDULA": {
+        "prev": {
+            "TCH\u00c1LUA": 1
+        },
+        "next": {
+            "NGUETCHEL\u00c9": 1
+        },
+        "occurrences": 2
+    },
+    "NGUETCHEL\u00c9": {
+        "prev": {
+            "TUAPAMDULA": 1
+        },
+        "next": {
+            "OKTAVA": 1
+        },
+        "occurrences": 2
+    },
+    "OKTAVA": {
+        "prev": {
+            "NGUETCHEL\u00c9": 1
+        },
+        "next": {
+            "KATAVAA": 1
+        },
+        "occurrences": 2
+    },
+    "KATAVAA": {
+        "prev": {
+            "OKTAVA": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "Anjamba": {
+        "prev": {},
+        "next": {
+            "lima": 1
+        },
+        "occurrences": 2
+    },
+    "lima": {
+        "prev": {
+            "Anjamba": 1
+        },
+        "next": {
+            "cukwene": 1
+        },
+        "occurrences": 2
+    },
+    "cukwene": {
+        "prev": {
+            "lima": 1
+        },
+        "next": {
+            "acoveko": 1
+        },
+        "occurrences": 2
+    },
+    "acoveko": {
+        "prev": {
+            "cukwene": 1
+        },
+        "next": {
+            "Ukwene": 1
+        },
+        "occurrences": 2
+    },
+    "Ukwene": {
+        "prev": {
+            "acoveko": 1
+        },
+        "next": {
+            "nda": 1
+        },
+        "occurrences": 2
+    },
+    "oteh\u00e3": {
+        "prev": {
+            "nda": 1
+        },
+        "next": {
+            "ove": 1
+        },
+        "occurrences": 2
+    },
+    "ove": {
+        "prev": {
+            "oteh\u00e3": 1
+        },
+        "next": {
+            "liseya": 1
+        },
+        "occurrences": 2
+    },
+    "liseya": {
+        "prev": {
+            "ove": 1
+        },
+        "next": {
+            "momo": 1
+        },
+        "occurrences": 2
+    },
+    "momo": {
+        "prev": {
+            "liseya": 1
+        },
+        "next": {
+            "ngolo": 1
+        },
+        "occurrences": 2
+    },
+    "ngolo": {
+        "prev": {
+            "momo": 1,
+            "la": 1
+        },
+        "next": {
+            "la": 1,
+            "ka": 1
+        },
+        "occurrences": 4
+    },
+    "ka": {
+        "prev": {
+            "ngolo": 1
+        },
+        "next": {
+            "calisokele": 1
+        },
+        "occurrences": 2
+    },
+    "calisokele": {
+        "prev": {
+            "ka": 1
+        },
+        "next": {
+            "Cilanda": 1
+        },
+        "occurrences": 2
+    },
+    "Cilanda": {
+        "prev": {
+            "calisokele": 1
+        },
+        "next": {
+            "ongombe": 1
+        },
+        "occurrences": 2
+    },
+    "citunda": {
+        "prev": {
+            "ongombe": 1,
+            "civi": 1
+        },
+        "next": {
+            "konjo": 1,
+            "kolonjali": 1
+        },
+        "occurrences": 4
+    },
+    "konjo": {
+        "prev": {
+            "citunda": 1
+        },
+        "next": {
+            "cosi": 1
+        },
+        "occurrences": 2
+    },
+    "cosi": {
+        "prev": {
+            "konjo": 1
+        },
+        "next": {
+            "civi": 1
+        },
+        "occurrences": 2
+    },
+    "civi": {
+        "prev": {
+            "cosi": 1
+        },
+        "next": {
+            "citunda": 1
+        },
+        "occurrences": 2
+    },
+    "kolonjali": {
+        "prev": {
+            "citunda": 1
+        },
+        "next": {
+            "omola": 1
+        },
+        "occurrences": 2
+    },
+    "omola": {
+        "prev": {
+            "kolonjali": 1,
+            "mulivo": 1
+        },
+        "next": {
+            "ocikwama": 1,
+            "Wosi": 1
+        },
+        "occurrences": 4
+    },
+    "ocikwama": {
+        "prev": {
+            "omola": 1
+        },
+        "next": {
+            "Okwete": 1
+        },
+        "occurrences": 2
+    },
+    "Okwete": {
+        "prev": {
+            "ocikwama": 1
+        },
+        "next": {
+            "omoko": 1
+        },
+        "occurrences": 2
+    },
+    "yatwa": {
+        "prev": {
+            "omoko": 1
+        },
+        "next": {
+            "eye": 1
+        },
+        "occurrences": 2
+    },
+    "eye": {
+        "prev": {
+            "yatwa": 1
+        },
+        "next": {
+            "osongelako": 1
+        },
+        "occurrences": 2
+    },
+    "osongelako": {
+        "prev": {
+            "eye": 1
+        },
+        "next": {
+            "vakwavo": 1
+        },
+        "occurrences": 2
+    },
+    "vakwavo": {
+        "prev": {
+            "osongelako": 1
+        },
+        "next": {
+            "ovikundo\u201d": 1
+        },
+        "occurrences": 2
+    },
+    "ovikundo\u201d": {
+        "prev": {
+            "vakwavo": 1
+        },
+        "next": {
+            "Kavakwete": 1
+        },
+        "occurrences": 2
+    },
+    "Kavakwete": {
+        "prev": {
+            "ovikundo\u201d": 1
+        },
+        "next": {
+            "ungombo": 1
+        },
+        "occurrences": 2
+    },
+    "ungombo": {
+        "prev": {
+            "Kavakwete": 1
+        },
+        "next": {
+            "kosimo": 1
+        },
+        "occurrences": 2
+    },
+    "kosimo": {
+        "prev": {
+            "ungombo": 1
+        },
+        "next": {
+            "kavyendi": 1
+        },
+        "occurrences": 2
+    },
+    "kavyendi": {
+        "prev": {
+            "kosimo": 1
+        },
+        "next": {
+            "Om\u00f5la": 1
+        },
+        "occurrences": 2
+    },
+    "Om\u00f5la": {
+        "prev": {
+            "kavyendi": 1
+        },
+        "next": {
+            "wosi": 1
+        },
+        "occurrences": 2
+    },
+    "wosi": {
+        "prev": {
+            "Om\u00f5la": 1,
+            "U": 1
+        },
+        "next": {
+            "otela": 1,
+            "ovanjiliya": 1
+        },
+        "occurrences": 4
+    },
+    "otela": {
+        "prev": {
+            "wosi": 1
+        },
+        "next": {
+            "osole": 1
+        },
+        "occurrences": 2
+    },
+    "osole": {
+        "prev": {
+            "otela": 1
+        },
+        "next": {
+            "ovilongwa": 1
+        },
+        "occurrences": 2
+    },
+    "vyanahe": {
+        "prev": {
+            "ovilongwa": 1
+        },
+        "next": {
+            "Vomola": 1
+        },
+        "occurrences": 2
+    },
+    "Vomola": {
+        "prev": {
+            "vyanahe": 1
+        },
+        "next": {
+            "muli": 1
+        },
+        "occurrences": 2
+    },
+    "muli": {
+        "prev": {
+            "Vomola": 1
+        },
+        "next": {
+            "ukulu": 1
+        },
+        "occurrences": 2
+    },
+    "ukulu": {
+        "prev": {
+            "muli": 1
+        },
+        "next": {
+            "vukulo": 1
+        },
+        "occurrences": 2
+    },
+    "vukulo": {
+        "prev": {
+            "ukulu": 1
+        },
+        "next": {
+            "mulivo": 1
+        },
+        "occurrences": 2
+    },
+    "mulivo": {
+        "prev": {
+            "vukulo": 1
+        },
+        "next": {
+            "omola": 1
+        },
+        "occurrences": 2
+    },
+    "Wosi": {
+        "prev": {
+            "omola": 1
+        },
+        "next": {
+            "oyongola": 1
+        },
+        "occurrences": 2
+    },
+    "oyongola": {
+        "prev": {
+            "Wosi": 1
+        },
+        "next": {
+            "cosi,cosi": 1
+        },
+        "occurrences": 2
+    },
+    "cosi,cosi": {
+        "prev": {
+            "oyongola": 1
+        },
+        "next": {
+            "cinyelela": 1
+        },
+        "occurrences": 2
+    },
+    "cinyelela": {
+        "prev": {
+            "cosi,cosi": 1
+        },
+        "next": {
+            "U": 1
+        },
+        "occurrences": 2
+    },
+    "U": {
+        "prev": {
+            "cinyelela": 1
+        },
+        "next": {
+            "wosi": 1
+        },
+        "occurrences": 2
+    },
+    "ovanjiliya": {
+        "prev": {
+            "wosi": 1
+        },
+        "next": {
+            "osi\u00f1ga": 1
+        },
+        "occurrences": 2
+    },
+    "osi\u00f1ga": {
+        "prev": {
+            "ovanjiliya": 1
+        },
+        "next": {},
+        "occurrences": 1
+    }
+}

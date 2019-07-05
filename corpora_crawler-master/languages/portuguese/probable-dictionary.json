@@ -1,0 +1,1570 @@
+{
+    "O": {
+        "prev": {},
+        "next": {
+            "seu": 1
+        },
+        "occurrences": 2
+    },
+    "seu": {
+        "prev": {
+            "O": 1
+        },
+        "next": {
+            "endere\u00e7o": 1
+        },
+        "occurrences": 2
+    },
+    "endere\u00e7o": {
+        "prev": {
+            "seu": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "de": {
+        "prev": {
+            "endere\u00e7o": 1,
+            "prova": 1,
+            "quest\u00e3o": 2,
+            "uni\u00e3o": 1,
+            "n\u00e3o": 1,
+            "meio": 1,
+            "prol": 1,
+            "grandeza": 2,
+            "preciso": 1,
+            "mudas": 1,
+            "Sou": 1,
+            "gostaria": 1,
+            "Estado": 1,
+            "tintura": 1,
+            "sementes": 1,
+            "mal": 1,
+            "tarde,gostaria": 1
+        },
+        "next": {
+            "e-mail": 1,
+            "que": 1,
+            "atitude": 1,
+            "poder": 1,
+            "a\u00e7\u00e3o": 1,
+            "pensamento": 1,
+            "canalizar": 1,
+            "um": 1,
+            "uma": 2,
+            "folhas": 1,
+            "guavira": 1,
+            "Bras\u00edlia": 1,
+            "saber": 2,
+            "Goi\u00e1s": 1,
+            "quina": 2,
+            "parckson,disseram": 1
+        },
+        "occurrences": 38
+    },
+    "e-mail": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "n\u00e3o": 1
+        },
+        "occurrences": 2
+    },
+    "n\u00e3o": {
+        "prev": {
+            "e-mail": 1,
+            "inven\u00e7\u00e3o": 1,
+            "racismo": 1,
+            "e": 1,
+            "uni\u00e3o": 1
+        },
+        "next": {
+            "ser\u00e1": 1,
+            "escolhe": 1,
+            "\u00e9": 2,
+            "de": 1
+        },
+        "occurrences": 10
+    },
+    "ser\u00e1": {
+        "prev": {
+            "n\u00e3o": 1
+        },
+        "next": {
+            "publicado": 1
+        },
+        "occurrences": 2
+    },
+    "publicado": {
+        "prev": {
+            "ser\u00e1": 1
+        },
+        "next": {
+            "Campos": 1
+        },
+        "occurrences": 2
+    },
+    "Campos": {
+        "prev": {
+            "publicado": 1
+        },
+        "next": {
+            "obrigat\u00f3rios": 1
+        },
+        "occurrences": 2
+    },
+    "obrigat\u00f3rios": {
+        "prev": {
+            "Campos": 1
+        },
+        "next": {
+            "s\u00e3o": 1
+        },
+        "occurrences": 2
+    },
+    "s\u00e3o": {
+        "prev": {
+            "obrigat\u00f3rios": 1
+        },
+        "next": {
+            "marcados": 1
+        },
+        "occurrences": 2
+    },
+    "marcados": {
+        "prev": {
+            "s\u00e3o": 1
+        },
+        "next": {
+            "com": 1
+        },
+        "occurrences": 2
+    },
+    "com": {
+        "prev": {
+            "marcados": 1,
+            "Aprenda": 2,
+            "esta": 1
+        },
+        "next": {
+            "a": 4,
+            "diabetes": 1
+        },
+        "occurrences": 11
+    },
+    "Nos": {
+        "prev": {},
+        "next": {
+            "fizeram": 1
+        },
+        "occurrences": 2
+    },
+    "fizeram": {
+        "prev": {
+            "Nos": 1
+        },
+        "next": {
+            "crer": 1
+        },
+        "occurrences": 2
+    },
+    "crer": {
+        "prev": {
+            "fizeram": 1
+        },
+        "next": {
+            "que": 1
+        },
+        "occurrences": 2
+    },
+    "que": {
+        "prev": {
+            "crer": 1,
+            "de": 1,
+            "ainda": 1,
+            "E": 1,
+            "temos": 1,
+            "medicinal": 1,
+            "para": 1,
+            "parckson,disseram": 1
+        },
+        "next": {
+            "o": 1,
+            "a": 1,
+            "temos": 1,
+            "uni\u00e3o": 1,
+            "nos": 1,
+            "preciso": 1,
+            "serve": 1,
+            "e.muito": 1
+        },
+        "occurrences": 16
+    },
+    "o": {
+        "prev": {
+            "que": 1,
+            "como": 1,
+            "saber": 1,
+            "qual": 1
+        },
+        "next": {
+            "negro": 1,
+            "branco": 1,
+            "nome": 1,
+            "significado": 1
+        },
+        "occurrences": 8
+    },
+    "negro": {
+        "prev": {
+            "o": 1
+        },
+        "next": {
+            "nunca": 1
+        },
+        "occurrences": 2
+    },
+    "nunca": {
+        "prev": {
+            "negro": 1
+        },
+        "next": {
+            "inventou": 1
+        },
+        "occurrences": 2
+    },
+    "inventou": {
+        "prev": {
+            "nunca": 1
+        },
+        "next": {
+            "nada": 1
+        },
+        "occurrences": 2
+    },
+    "nada": {
+        "prev": {
+            "inventou": 1
+        },
+        "next": {
+            "nem": 1
+        },
+        "occurrences": 2
+    },
+    "nem": {
+        "prev": {
+            "nada": 1
+        },
+        "next": {
+            "pode": 1
+        },
+        "occurrences": 2
+    },
+    "pode": {
+        "prev": {
+            "nem": 1
+        },
+        "next": {
+            "ser": 1
+        },
+        "occurrences": 2
+    },
+    "ser": {
+        "prev": {
+            "pode": 1
+        },
+        "next": {
+            "cientista": 1
+        },
+        "occurrences": 2
+    },
+    "cientista": {
+        "prev": {
+            "ser": 1
+        },
+        "next": {
+            "como": 1
+        },
+        "occurrences": 2
+    },
+    "como": {
+        "prev": {
+            "cientista": 1
+        },
+        "next": {
+            "o": 1,
+            "fazer": 1
+        },
+        "occurrences": 4
+    },
+    "branco": {
+        "prev": {
+            "o": 1
+        },
+        "next": {
+            "mas": 1
+        },
+        "occurrences": 2
+    },
+    "mas": {
+        "prev": {
+            "branco": 1,
+            "atitude": 1,
+            "dizer": 1
+        },
+        "next": {
+            "eis": 1,
+            "uma": 1,
+            "temos": 1
+        },
+        "occurrences": 6
+    },
+    "eis": {
+        "prev": {
+            "mas": 1
+        },
+        "next": {
+            "aqui": 1
+        },
+        "occurrences": 2
+    },
+    "aqui": {
+        "prev": {
+            "eis": 1
+        },
+        "next": {
+            "a": 1
+        },
+        "occurrences": 2
+    },
+    "a": {
+        "prev": {
+            "aqui": 1,
+            "que": 1,
+            "e": 1,
+            "canalizar": 1,
+            "com": 4,
+            "novidade": 1
+        },
+        "next": {
+            "prova": 1,
+            "ci\u00eancia": 1,
+            "inven\u00e7\u00e3o": 1,
+            "energia": 1,
+            "grandeza": 4,
+            "respeito": 1
+        },
+        "occurrences": 18
+    },
+    "prova": {
+        "prev": {
+            "a": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "ci\u00eancia": {
+        "prev": {
+            "a": 1
+        },
+        "next": {
+            "tecnologia": 1
+        },
+        "occurrences": 2
+    },
+    "tecnologia": {
+        "prev": {
+            "ci\u00eancia": 1
+        },
+        "next": {
+            "e": 1
+        },
+        "occurrences": 2
+    },
+    "e": {
+        "prev": {
+            "tecnologia": 1,
+            "a\u00e7\u00e3o": 1,
+            "folhas": 1,
+            "alta": 1,
+            "quina": 1
+        },
+        "next": {
+            "a": 1,
+            "n\u00e3o": 1,
+            "mudas": 1,
+            "me": 1,
+            "para": 1
+        },
+        "occurrences": 10
+    },
+    "inven\u00e7\u00e3o": {
+        "prev": {
+            "a": 1
+        },
+        "next": {
+            "n\u00e3o": 1
+        },
+        "occurrences": 2
+    },
+    "escolhe": {
+        "prev": {
+            "n\u00e3o": 1
+        },
+        "next": {
+            "cor": 1
+        },
+        "occurrences": 2
+    },
+    "cor": {
+        "prev": {
+            "escolhe": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "Kwame": {
+        "prev": {},
+        "next": {
+            "Ture": 2
+        },
+        "occurrences": 4
+    },
+    "Ture": {
+        "prev": {
+            "Kwame": 2
+        },
+        "next": {
+            "mesmo": 1,
+            "diz": 1
+        },
+        "occurrences": 4
+    },
+    "mesmo": {
+        "prev": {
+            "Ture": 1
+        },
+        "next": {
+            "fala": 1
+        },
+        "occurrences": 2
+    },
+    "fala": {
+        "prev": {
+            "mesmo": 1
+        },
+        "next": {
+            "se": 1
+        },
+        "occurrences": 2
+    },
+    "se": {
+        "prev": {
+            "fala": 1,
+            "dela": 1,
+            "vai": 1
+        },
+        "next": {
+            "uma": 1,
+            "ela": 1,
+            "conscientizar\"..": 1
+        },
+        "occurrences": 6
+    },
+    "uma": {
+        "prev": {
+            "se": 1,
+            "\u00e9": 1,
+            "mas": 1,
+            "de": 2,
+            "Tenho": 1
+        },
+        "next": {
+            "pessoa": 3,
+            "quest\u00e3o": 2,
+            "planta": 1
+        },
+        "occurrences": 12
+    },
+    "pessoa": {
+        "prev": {
+            "uma": 3
+        },
+        "next": {
+            "quer": 1,
+            "Aprenda": 2
+        },
+        "occurrences": 6
+    },
+    "quer": {
+        "prev": {
+            "pessoa": 1
+        },
+        "next": {
+            "te": 1
+        },
+        "occurrences": 2
+    },
+    "te": {
+        "prev": {
+            "quer": 1
+        },
+        "next": {
+            "linchar": 1
+        },
+        "occurrences": 2
+    },
+    "linchar": {
+        "prev": {
+            "te": 1
+        },
+        "next": {
+            "\u00e9": 1
+        },
+        "occurrences": 2
+    },
+    "\u00e9": {
+        "prev": {
+            "linchar": 1,
+            "isso": 1,
+            "n\u00e3o": 2,
+            "sentimento": 1,
+            "q": 1
+        },
+        "next": {
+            "problema": 2,
+            "uma": 1,
+            "um": 2,
+            "muito": 1
+        },
+        "occurrences": 12
+    },
+    "problema": {
+        "prev": {
+            "\u00e9": 2
+        },
+        "next": {
+            "dela": 1,
+            "teu": 1
+        },
+        "occurrences": 4
+    },
+    "dela": {
+        "prev": {
+            "problema": 1,
+            "nome": 1
+        },
+        "next": {
+            "se": 1
+        },
+        "occurrences": 3
+    },
+    "ela": {
+        "prev": {
+            "se": 1
+        },
+        "next": {
+            "tem": 1
+        },
+        "occurrences": 2
+    },
+    "tem": {
+        "prev": {
+            "ela": 1,
+            "m\u00e3e": 1
+        },
+        "next": {
+            "poder": 1,
+            "mal": 1
+        },
+        "occurrences": 4
+    },
+    "poder": {
+        "prev": {
+            "tem": 1,
+            "de": 1
+        },
+        "next": {
+            "para": 1
+        },
+        "occurrences": 3
+    },
+    "para": {
+        "prev": {
+            "poder": 1,
+            "e": 1,
+            "quina": 1
+        },
+        "next": {
+            "fazer": 1,
+            "que": 1,
+            "plantar": 1
+        },
+        "occurrences": 6
+    },
+    "fazer": {
+        "prev": {
+            "para": 1,
+            "como": 1
+        },
+        "next": {
+            "isso": 1,
+            "tintura": 1
+        },
+        "occurrences": 4
+    },
+    "isso": {
+        "prev": {
+            "fazer": 1
+        },
+        "next": {
+            "\u00e9": 1
+        },
+        "occurrences": 2
+    },
+    "teu": {
+        "prev": {
+            "problema": 1
+        },
+        "next": {
+            "Quer": 1
+        },
+        "occurrences": 2
+    },
+    "Quer": {
+        "prev": {
+            "teu": 1
+        },
+        "next": {
+            "dizer": 1
+        },
+        "occurrences": 2
+    },
+    "dizer": {
+        "prev": {
+            "Quer": 1,
+            "V\u00e3o": 1
+        },
+        "next": {
+            "racismo": 1,
+            "mas": 1
+        },
+        "occurrences": 4
+    },
+    "racismo": {
+        "prev": {
+            "dizer": 1
+        },
+        "next": {
+            "n\u00e3o": 1
+        },
+        "occurrences": 2
+    },
+    "quest\u00e3o": {
+        "prev": {
+            "uma": 2
+        },
+        "next": {
+            "de": 2
+        },
+        "occurrences": 4
+    },
+    "atitude": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "mas": 1
+        },
+        "occurrences": 2
+    },
+    "diz": {
+        "prev": {
+            "Ture": 1
+        },
+        "next": {
+            "ainda": 1
+        },
+        "occurrences": 2
+    },
+    "ainda": {
+        "prev": {
+            "diz": 1
+        },
+        "next": {
+            "que": 1
+        },
+        "occurrences": 2
+    },
+    "temos": {
+        "prev": {
+            "que": 1,
+            "mas": 1
+        },
+        "next": {
+            "uni\u00e3o": 1,
+            "que": 1
+        },
+        "occurrences": 4
+    },
+    "uni\u00e3o": {
+        "prev": {
+            "temos": 1,
+            "que": 1
+        },
+        "next": {
+            "de": 1,
+            "n\u00e3o": 1
+        },
+        "occurrences": 4
+    },
+    "a\u00e7\u00e3o": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "e": 1
+        },
+        "occurrences": 2
+    },
+    "pensamento": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "E": 1
+        },
+        "occurrences": 2
+    },
+    "E": {
+        "prev": {
+            "pensamento": 1
+        },
+        "next": {
+            "que": 1
+        },
+        "occurrences": 2
+    },
+    "um": {
+        "prev": {
+            "\u00e9": 2,
+            "de": 1
+        },
+        "next": {
+            "sentimento": 1,
+            "meio": 1,
+            "ou": 1
+        },
+        "occurrences": 6
+    },
+    "sentimento": {
+        "prev": {
+            "um": 1
+        },
+        "next": {
+            "\u00e9": 1
+        },
+        "occurrences": 2
+    },
+    "meio": {
+        "prev": {
+            "um": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "canalizar": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "a": 1
+        },
+        "occurrences": 2
+    },
+    "energia": {
+        "prev": {
+            "a": 1
+        },
+        "next": {
+            "das": 1
+        },
+        "occurrences": 2
+    },
+    "das": {
+        "prev": {
+            "energia": 1
+        },
+        "next": {
+            "pessoas": 1
+        },
+        "occurrences": 2
+    },
+    "pessoas": {
+        "prev": {
+            "das": 1
+        },
+        "next": {
+            "em": 1
+        },
+        "occurrences": 2
+    },
+    "em": {
+        "prev": {
+            "pessoas": 1,
+            "grandeza": 2
+        },
+        "next": {
+            "prol": 1,
+            "voc\u00ea!": 2
+        },
+        "occurrences": 6
+    },
+    "prol": {
+        "prev": {
+            "em": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "ou": {
+        "prev": {
+            "um": 1
+        },
+        "next": {
+            "mais": 1
+        },
+        "occurrences": 2
+    },
+    "mais": {
+        "prev": {
+            "ou": 1
+        },
+        "next": {
+            "objetivo": 1
+        },
+        "occurrences": 2
+    },
+    "objetivo": {
+        "prev": {
+            "mais": 1
+        },
+        "next": {
+            "espec\u00edfico": 1
+        },
+        "occurrences": 2
+    },
+    "espec\u00edfico": {
+        "prev": {
+            "objetivo": 1
+        },
+        "next": {
+            "V\u00e3o": 1
+        },
+        "occurrences": 2
+    },
+    "V\u00e3o": {
+        "prev": {
+            "espec\u00edfico": 1
+        },
+        "next": {
+            "dizer": 1
+        },
+        "occurrences": 2
+    },
+    "nos": {
+        "prev": {
+            "que": 1
+        },
+        "next": {
+            "manifestar": 1
+        },
+        "occurrences": 2
+    },
+    "manifestar": {
+        "prev": {
+            "nos": 1
+        },
+        "next": {
+            "porque": 1
+        },
+        "occurrences": 2
+    },
+    "porque": {
+        "prev": {
+            "manifestar": 1
+        },
+        "next": {
+            "assim": 1
+        },
+        "occurrences": 2
+    },
+    "assim": {
+        "prev": {
+            "porque": 1
+        },
+        "next": {
+            "nosso": 1
+        },
+        "occurrences": 2
+    },
+    "nosso": {
+        "prev": {
+            "assim": 1
+        },
+        "next": {
+            "povo": 1
+        },
+        "occurrences": 2
+    },
+    "povo": {
+        "prev": {
+            "nosso": 1
+        },
+        "next": {
+            "vai": 1
+        },
+        "occurrences": 2
+    },
+    "vai": {
+        "prev": {
+            "povo": 1
+        },
+        "next": {
+            "se": 1
+        },
+        "occurrences": 2
+    },
+    "conscientizar\"..": {
+        "prev": {
+            "se": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "grandeza": {
+        "prev": {
+            "a": 4
+        },
+        "next": {
+            "de": 2,
+            "em": 2
+        },
+        "occurrences": 8
+    },
+    "Aprenda": {
+        "prev": {
+            "pessoa": 2
+        },
+        "next": {
+            "com": 2
+        },
+        "occurrences": 4
+    },
+    "voc\u00ea!": {
+        "prev": {
+            "em": 2
+        },
+        "next": {},
+        "occurrences": 2
+    },
+    "Bom": {
+        "prev": {},
+        "next": {
+            "dia": 1
+        },
+        "occurrences": 2
+    },
+    "dia": {
+        "prev": {
+            "Bom": 1
+        },
+        "next": {
+            "preciso": 1
+        },
+        "occurrences": 2
+    },
+    "preciso": {
+        "prev": {
+            "dia": 1,
+            "que": 1
+        },
+        "next": {
+            "de": 1,
+            "saber": 1
+        },
+        "occurrences": 4
+    },
+    "folhas": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "e": 1
+        },
+        "occurrences": 2
+    },
+    "mudas": {
+        "prev": {
+            "e": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "guavira": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "pois": 1
+        },
+        "occurrences": 2
+    },
+    "pois": {
+        "prev": {
+            "guavira": 1
+        },
+        "next": {
+            "minha": 1
+        },
+        "occurrences": 2
+    },
+    "minha": {
+        "prev": {
+            "pois": 1,
+            "kina,pois": 1
+        },
+        "next": {
+            "m\u00e3e": 2
+        },
+        "occurrences": 4
+    },
+    "m\u00e3e": {
+        "prev": {
+            "minha": 2
+        },
+        "next": {
+            "esta": 1,
+            "tem": 1
+        },
+        "occurrences": 4
+    },
+    "esta": {
+        "prev": {
+            "m\u00e3e": 1
+        },
+        "next": {
+            "com": 1
+        },
+        "occurrences": 2
+    },
+    "diabetes": {
+        "prev": {
+            "com": 1
+        },
+        "next": {
+            "alta": 1
+        },
+        "occurrences": 2
+    },
+    "alta": {
+        "prev": {
+            "diabetes": 1
+        },
+        "next": {
+            "e": 1
+        },
+        "occurrences": 2
+    },
+    "me": {
+        "prev": {
+            "e": 1,
+            "respeito": 1
+        },
+        "next": {
+            "falaram": 1,
+            "escreva": 1
+        },
+        "occurrences": 4
+    },
+    "falaram": {
+        "prev": {
+            "me": 1
+        },
+        "next": {
+            "q": 1
+        },
+        "occurrences": 2
+    },
+    "q": {
+        "prev": {
+            "falaram": 1
+        },
+        "next": {
+            "\u00e9": 1
+        },
+        "occurrences": 2
+    },
+    "muito": {
+        "prev": {
+            "\u00e9": 1,
+            "queria": 2
+        },
+        "next": {
+            "bom": 1,
+            "umas": 1,
+            "saber": 1
+        },
+        "occurrences": 6
+    },
+    "bom": {
+        "prev": {
+            "muito": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "Sou": {
+        "prev": {},
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "Bras\u00edlia": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "gostaria": 1
+        },
+        "occurrences": 2
+    },
+    "gostaria": {
+        "prev": {
+            "Bras\u00edlia": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "saber": {
+        "prev": {
+            "de": 2,
+            "preciso": 1,
+            "muito": 1
+        },
+        "next": {
+            "onde": 2,
+            "o": 1,
+            "qual": 1
+        },
+        "occurrences": 8
+    },
+    "onde": {
+        "prev": {
+            "saber": 2
+        },
+        "next": {
+            "h\u00e1": 1,
+            "encontro": 1
+        },
+        "occurrences": 4
+    },
+    "h\u00e1": {
+        "prev": {
+            "onde": 1
+        },
+        "next": {
+            "maior": 1
+        },
+        "occurrences": 2
+    },
+    "maior": {
+        "prev": {
+            "h\u00e1": 1
+        },
+        "next": {
+            "incid\u00eancia": 1
+        },
+        "occurrences": 2
+    },
+    "incid\u00eancia": {
+        "prev": {
+            "maior": 1
+        },
+        "next": {
+            "dessa": 1
+        },
+        "occurrences": 2
+    },
+    "dessa": {
+        "prev": {
+            "incid\u00eancia": 1
+        },
+        "next": {
+            "planta": 1
+        },
+        "occurrences": 2
+    },
+    "planta": {
+        "prev": {
+            "dessa": 1,
+            "uma": 1
+        },
+        "next": {
+            "no": 1,
+            "medicinal": 1
+        },
+        "occurrences": 4
+    },
+    "no": {
+        "prev": {
+            "planta": 1,
+            "escreva": 1,
+            "plantar": 1
+        },
+        "next": {
+            "Estado": 1,
+            "meu": 2
+        },
+        "occurrences": 6
+    },
+    "Estado": {
+        "prev": {
+            "no": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "Goi\u00e1s": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "Obrigado": 1
+        },
+        "occurrences": 2
+    },
+    "Obrigado": {
+        "prev": {
+            "Goi\u00e1s": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "qualquer": {
+        "prev": {},
+        "next": {
+            "novidade": 1
+        },
+        "occurrences": 2
+    },
+    "novidade": {
+        "prev": {
+            "qualquer": 1
+        },
+        "next": {
+            "a": 1
+        },
+        "occurrences": 2
+    },
+    "respeito": {
+        "prev": {
+            "a": 1
+        },
+        "next": {
+            "me": 1
+        },
+        "occurrences": 2
+    },
+    "escreva": {
+        "prev": {
+            "me": 1
+        },
+        "next": {
+            "no": 1
+        },
+        "occurrences": 2
+    },
+    "meu": {
+        "prev": {
+            "no": 2
+        },
+        "next": {
+            "email": 1,
+            "jardim": 1
+        },
+        "occurrences": 4
+    },
+    "email": {
+        "prev": {
+            "meu": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "Tenho": {
+        "prev": {},
+        "next": {
+            "uma": 1
+        },
+        "occurrences": 2
+    },
+    "medicinal": {
+        "prev": {
+            "planta": 1
+        },
+        "next": {
+            "que": 1
+        },
+        "occurrences": 2
+    },
+    "nome": {
+        "prev": {
+            "o": 1,
+            "do": 1
+        },
+        "next": {
+            "dela": 1,
+            "tchinokaya": 1
+        },
+        "occurrences": 4
+    },
+    "tintura": {
+        "prev": {
+            "fazer": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "quina": {
+        "prev": {
+            "de": 2
+        },
+        "next": {
+            "e": 1,
+            "para": 1
+        },
+        "occurrences": 4
+    },
+    "serve": {
+        "prev": {
+            "que": 1
+        },
+        "next": {
+            "obrigada": 1
+        },
+        "occurrences": 2
+    },
+    "obrigada": {
+        "prev": {
+            "serve": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "Eu": {
+        "prev": {},
+        "next": {
+            "queria": 1
+        },
+        "occurrences": 2
+    },
+    "queria": {
+        "prev": {
+            "Eu": 1,
+            "tarde": 1
+        },
+        "next": {
+            "muito": 2
+        },
+        "occurrences": 4
+    },
+    "umas": {
+        "prev": {
+            "muito": 1
+        },
+        "next": {
+            "sementes": 1
+        },
+        "occurrences": 2
+    },
+    "sementes": {
+        "prev": {
+            "umas": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "plantar": {
+        "prev": {
+            "para": 1
+        },
+        "next": {
+            "no": 1
+        },
+        "occurrences": 2
+    },
+    "jardim": {
+        "prev": {
+            "meu": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "Boa": {
+        "prev": {},
+        "next": {
+            "tarde": 1
+        },
+        "occurrences": 2
+    },
+    "tarde": {
+        "prev": {
+            "Boa": 1
+        },
+        "next": {
+            "queria": 1
+        },
+        "occurrences": 2
+    },
+    "encontro": {
+        "prev": {
+            "onde": 1
+        },
+        "next": {
+            "kina,pois": 1
+        },
+        "occurrences": 2
+    },
+    "kina,pois": {
+        "prev": {
+            "encontro": 1
+        },
+        "next": {
+            "minha": 1
+        },
+        "occurrences": 2
+    },
+    "mal": {
+        "prev": {
+            "tem": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "parckson,disseram": {
+        "prev": {
+            "de": 1
+        },
+        "next": {
+            "que": 1
+        },
+        "occurrences": 2
+    },
+    "e.muito": {
+        "prev": {
+            "que": 1
+        },
+        "next": {
+            "bom,me": 1
+        },
+        "occurrences": 2
+    },
+    "bom,me": {
+        "prev": {
+            "e.muito": 1
+        },
+        "next": {
+            "ajude": 1
+        },
+        "occurrences": 2
+    },
+    "ajude": {
+        "prev": {
+            "bom,me": 1
+        },
+        "next": {},
+        "occurrences": 1
+    },
+    "Ol\u00e1": {
+        "prev": {},
+        "next": {
+            "boa": 1
+        },
+        "occurrences": 2
+    },
+    "boa": {
+        "prev": {
+            "Ol\u00e1": 1
+        },
+        "next": {
+            "tarde,gostaria": 1
+        },
+        "occurrences": 2
+    },
+    "tarde,gostaria": {
+        "prev": {
+            "boa": 1
+        },
+        "next": {
+            "de": 1
+        },
+        "occurrences": 2
+    },
+    "qual": {
+        "prev": {
+            "saber": 1
+        },
+        "next": {
+            "o": 1
+        },
+        "occurrences": 2
+    },
+    "significado": {
+        "prev": {
+            "o": 1
+        },
+        "next": {
+            "do": 1
+        },
+        "occurrences": 2
+    },
+    "do": {
+        "prev": {
+            "significado": 1
+        },
+        "next": {
+            "nome": 1
+        },
+        "occurrences": 2
+    },
+    "tchinokaya": {
+        "prev": {
+            "nome": 1
+        },
+        "next": {},
+        "occurrences": 1
+    }
+}

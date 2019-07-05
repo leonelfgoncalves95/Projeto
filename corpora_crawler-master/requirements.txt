@@ -1,0 +1,12 @@
+fulltext
+beautifulsoup4
+flake8
+nltk
+git+https://github.com/abenassi/Google-Search-API
+# wheel
+# python-slugify
+# inscriptis
+# docx2txt
+# pdftotext
+# PyPDF2
+# textract
