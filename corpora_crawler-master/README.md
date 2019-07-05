@@ -7,6 +7,10 @@ make create_venv
 source .venv/bin/activate
 make install
 ```
+## How to execute menu
+```shell
+python3 menu.py
+```
 
 ## How to execute pipeline
 ```shell
